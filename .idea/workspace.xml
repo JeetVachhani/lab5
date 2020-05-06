@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0524086a-f078-4516-9fa1-60a1e079216f" name="Default Changelist" comment="" />
+    <list default="true" id="0524086a-f078-4516-9fa1-60a1e079216f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bEIffGYMsCXY7VScjhwXaWKZCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,12 +41,14 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -105,7 +120,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588190930648</updated>
-      <workItem from="1588190932421" duration="3770000" />
+      <workItem from="1588190932421" duration="8321000" />
+      <workItem from="1588231561893" duration="48000" />
+      <workItem from="1588798150013" duration="410000" />
     </task>
     <servers />
   </component>
@@ -121,26 +138,34 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="499" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.825@0.23.1440.825" timestamp="1588191318395" />
-    <state width="1400" height="212" key="GridCell.Tab.0.bottom" timestamp="1588199646518">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1400" height="212" key="GridCell.Tab.0.bottom" timestamp="1588231530249">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="1400" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588231530249" />
     <state width="1400" height="212" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588199646518" />
     <state width="1358" height="212" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1588195797918" />
-    <state width="1400" height="212" key="GridCell.Tab.0.center" timestamp="1588199646517">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1400" height="212" key="GridCell.Tab.0.center" timestamp="1588231530249">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="1400" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588231530248" />
     <state width="1400" height="212" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588199646517" />
     <state width="1358" height="212" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1588195797909" />
-    <state width="1400" height="212" key="GridCell.Tab.0.left" timestamp="1588199646515">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1400" height="212" key="GridCell.Tab.0.left" timestamp="1588231530248">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="1400" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588231530248" />
     <state width="1400" height="212" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588199646515" />
     <state width="1358" height="212" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1588195797907" />
-    <state width="1400" height="212" key="GridCell.Tab.0.right" timestamp="1588199646518">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1400" height="212" key="GridCell.Tab.0.right" timestamp="1588231530249">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="1400" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588231530249" />
     <state width="1400" height="212" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588199646518" />
     <state width="1358" height="212" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1588195797910" />
+    <state x="419" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1588231593857">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="419" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1588231593857" />
     <state x="452" y="341" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588197236385">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
